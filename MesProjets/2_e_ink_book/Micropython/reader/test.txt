@@ -1,0 +1,66 @@
+1bpp buf
+load: 83 ms
+screen: 1819 ms
+copy: 213 ms
+show: 886 ms
+
+4bbp buf
+load: 34 ms
+screen: 1819 ms
+copy: 213 ms
+show: 887 ms
+
+8bpp buf
+MPY: soft reboot
+load: 63 ms
+screen: 1820 ms
+copy: 213 ms
+show: 886 ms
+
+1bpp list
+load: 76 ms
+screen: 1820 ms
+copy: 173 ms
+show: 886 ms
+
+4bpp list
+load: 83 ms
+screen: 1820 ms
+copy: 173 ms
+show: 886 ms
+
+8bpp list
+load: 41 ms
+screen: 1819 ms
+copy: 173 ms
+show: 885 ms
+
+test oeil micropython (24bpp)
+mode pixels:
+load: 3841 ms -> sortie en pure list de list
+screen: 1818 ms
+copy: 3065 ms -> pure python
+show: 885 ms
+
+mode buffer:
+load: 2955 ms -> sortie en bytearray.
+screen: 1819 ms
+copy: 113 ms -> copy bitmap buffer en C dans le dirvers inclus
+show: 884 ms
+
+load: 2958 ms -> ajout du mode native dans la partie load de la librairie
+screen: 1818 ms
+copy: 112 ms
+show: 886 ms
+
+load: 2561 ms -> ajout du native sur les output notament le mode buffer. on vois une petite amélioration
+screen: 1819 ms
+copy: 113 ms
+show: 886 ms
+
+load: 1924 ms -> avec optimisation via viper. il y a surement encore quelque ms a grater sur la partie opt du code mais globalement 1s de gagner.
+screen: 1819 ms
+copy: 112 ms
+show: 886 ms
+
+Globalement le passage avec le mode native n'apporte pas plus de ms, mais a voir si on passe le .py en mpy via mpcross, cela devrait encore ammener un peu rapidité.

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="spa">
+  <head>
+    <meta content="8bbf8ffb-281e-4217-b054-d22a78b351dd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.53.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>El Aleph</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uMbrxFqxW2ECoHjfpeqbO8H" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

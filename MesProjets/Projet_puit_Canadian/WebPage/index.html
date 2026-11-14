@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  {{render_template("WebPage/CSS/styles.css")}}
+ </style>
+</head>
+<h1 style="text-align: center;">Ma double Flux</h1>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<h4>Temp&eacute;rature maison: {{T_Maison}}</h4>
+</td>
+<td style="width: 50%; text-align: center;">
+<h4>Temp&eacute;rature ext&eacute;rieur:{{T_Ext}}</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<h3>Maison</h3>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<h3>&nbsp;Double flux</h3>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<h3>Ext&eacute;rieur</h3>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<h4>Reprise: {{T_Aspiration}}</h4>
+</td>
+<td style="width: 33.3333%; text-align: center;">
+<h4>&nbsp;Entr&eacute;e: {{Puit/Ext}}
+<label class="switch"> <input type="checkbox"> <span class="slider round"></span> </label>
+</h4>
+</td>
+<td style="width: 33.3333%;">
+<h4 style="text-align: center;">Aspiration: {{T_Puit}}</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: center;">
+<h4>Soufflage: {{_T_Soufflage}}</h4>
+</td>
+<td style="width: 33.3333%;">
+<h4 style="text-align: center;">Bypass:{{Actif/Inactif}}&nbsp;
+<label class="switch"> <input type="checkbox"> <span class="slider round"></span> </label>
+</h4>
+</td>
+<td style="width: 33.3333%;">
+<h4 style="text-align: center;">Rejet</h4>
+</td>
+</tr>
+</tbody>
+</table>
+</html>

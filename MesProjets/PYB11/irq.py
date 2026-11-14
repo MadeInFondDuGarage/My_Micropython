@@ -1,0 +1,1 @@
+from machine import Pinfrom time import sleepbutton = Pin('X17', Pin.IN, Pin.PULL_DOWN)def callback(pin):    print("OK")    button.irq(trigger=Pin.IRQ_RISING, handler=callback)

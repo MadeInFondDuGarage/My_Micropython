@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  {{render_template("WebPage/CSS/styles.css")}}
+ </style>
+</head>
+<body>
+<h1 style="text-align: center;">Ma double Flux</h1>
+<h1> </h1>
+<h4>Temp&eacute;rature maison: {{T_Maison}}</h4></td>
+<h4>Temp&eacute;rature ext&eacute;rieur:{{T_Ext}}</h4>
+<h4> Température aspiration puit: {{T_Puit}}</h4>
+<div>
+  <h3>Maison</h3>
+  <h4>Reprise: {{T_Aspiration}}</h4>
+  <h4>Soufflage: {{_T_Soufflage}}</h4>
+</div>
+<div>
+  <h3>Double flux</h3>
+  <h4> Entr&eacute;e: {{Puit/Ext}} <label class="switch"> <input type="checkbox"> <span class="slider round"></span> </label></h4>
+  <h4> Bypass: {{Actif/Inactif}} <label class="switch"> <input type="checkbox"> <span class="slider round"></span> </label></h4>
+</div>
+
+</body>
+</html>

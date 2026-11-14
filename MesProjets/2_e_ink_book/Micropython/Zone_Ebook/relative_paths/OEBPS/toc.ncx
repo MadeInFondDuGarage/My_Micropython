@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:abfaa0fc-0fc2-7c1f-8a3e-9049253cfea1" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Poesía completa</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cubierta</text>
+      </navLabel>
+      <content src="Text/cubierta.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Poesía completa</text>
+      </navLabel>
+      <content src="Text/titulo.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>La tierra más lejana (1955)</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml" />
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Días contra el ensueño</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Humo</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Reminiscencias</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Agua de lumbre</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Ser incoloro</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Nemo</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Vagar en lo opaco</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Tratando a la sombra roja</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Noche</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Mi bosque</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Poema a mi papel</text>
+        </navLabel>
+        <content src="Text/Section0013.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>…de mi diario</text>
+        </navLabel>
+        <content src="Text/Section0014.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Reminiscencias quirománticas</text>
+        </navLabel>
+        <content src="Text/Section0015.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Dibujo</text>
+        </navLabel>
+        <content src="Text/Section0016.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Ajedrez</text>
+        </navLabel>
+        <content src="Text/Section0017.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Hombre común</text>
+        </navLabel>
+        <content src="Text/Section0018.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Seguiré</text>
+        </navLabel>
+        <content src="Text/Section0019.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Un boleto objetivo</text>
+        </navLabel>
+        <content src="Text/Section0020.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Yo soy…</text>
+        </navLabel>
+        <content src="Text/Section0021.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Dédalus Joyce</text>
+        </navLabel>
+        <content src="Text/Section0022.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Puerto adelante</text>
+        </navLabel>
+        <content src="Text/Section0023.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>En el pantanillo</text>
+        </navLabel>
+        <content src="Text/Section0024.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Un signo en tu sombra</text>
+        </navLabel>
+        <content src="Text/Section0025.xhtml" />
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>Irme en un barco negro</text>
+          </navLabel>
+          <content src="Text/Section0026.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Cielo</text>
+          </navLabel>
+          <content src="Text/Section0027.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>Voy cayendo</text>
+          </navLabel>
+          <content src="Text/Section0028.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Sólo un amor</text>
+          </navLabel>
+          <content src="Text/Section0029.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>Más allá del olvido</text>
+          </navLabel>
+          <content src="Text/Section0030.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Lejanía</text>
+          </navLabel>
+          <content src="Text/Section0031.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>La última inocencia (1956)</text>
+      </navLabel>
+      <content src="Text/Section0032.xhtml" />
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Salvación</text>
+        </navLabel>
+        <content src="Text/Section0034.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Algo</text>
+        </navLabel>
+        <content src="Text/Section0035.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>La de los ojos abiertos</text>
+        </navLabel>
+        <content src="Text/Section0036.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Origen</text>
+        </navLabel>
+        <content src="Text/Section0037.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>La enamorada</text>
+        </navLabel>
+        <content src="Text/Section0038.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Canto</text>
+        </navLabel>
+        <content src="Text/Section0039.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Cenizas</text>
+        </navLabel>
+        <content src="Text/Section0040.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Sueño</text>
+        </navLabel>
+        <content src="Text/Section0041.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Noche</text>
+        </navLabel>
+        <content src="Text/Section0042.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Solamente</text>
+        </navLabel>
+        <content src="Text/Section0043.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>A la espera de la oscuridad</text>
+        </navLabel>
+        <content src="Text/Section0044.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>La última inocencia</text>
+        </navLabel>
+        <content src="Text/Section0045.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Balada de la piedra que llora</text>
+        </navLabel>
+        <content src="Text/Section0046.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Siempre</text>
+        </navLabel>
+        <content src="Text/Section0047.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Poema para Emily Dickinson</text>
+        </navLabel>
+        <content src="Text/Section0048.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Sólo un nombre</text>
+        </navLabel>
+        <content src="Text/Section0049.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Las aventuras perdidas (1958)</text>
+      </navLabel>
+      <content src="Text/Section0050.xhtml" />
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>La jaula</text>
+        </navLabel>
+        <content src="Text/Section0053.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Fiesta en el vacío</text>
+        </navLabel>
+        <content src="Text/Section0054.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>La danza inmóvil</text>
+        </navLabel>
+        <content src="Text/Section0055.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Tiempo</text>
+        </navLabel>
+        <content src="Text/Section0056.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Hija del viento</text>
+        </navLabel>
+        <content src="Text/Section0057.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>La única herida</text>
+        </navLabel>
+        <content src="Text/Section0058.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Exilio</text>
+        </navLabel>
+        <content src="Text/Section0059.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Artes invisibles</text>
+        </navLabel>
+        <content src="Text/Section0060.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>La caída</text>
+        </navLabel>
+        <content src="Text/Section0061.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Cenizas</text>
+        </navLabel>
+        <content src="Text/Section0062.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Azul</text>
+        </navLabel>
+        <content src="Text/Section0063.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>La noche</text>
+        </navLabel>
+        <content src="Text/Section0064.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Nada</text>
+        </navLabel>
+        <content src="Text/Section0065.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>El miedo</text>
+        </navLabel>
+        <content src="Text/Section0066.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Origen</text>
+        </navLabel>
+        <content src="Text/Section0067.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>La luz caída de la noche</text>
+        </navLabel>
+        <content src="Text/Section0068.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Peregrinaje</text>
+        </navLabel>
+        <content src="Text/Section0069.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>La carencia</text>
+        </navLabel>
+        <content src="Text/Section0070.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>El despertar</text>
+        </navLabel>
+        <content src="Text/Section0071.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Mucho más allá</text>
+        </navLabel>
+        <content src="Text/Section0072.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>El ausente</text>
+        </navLabel>
+        <content src="Text/Section0073.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Desde esta orilla</text>
+        </navLabel>
+        <content src="Text/Section0074.xhtml" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Árbol de Diana (1962)</text>
+      </navLabel>
+      <content src="Text/Section0075.xhtml" />
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Introducción de Octavio Paz</text>
+        </navLabel>
+        <content src="Text/Section0076.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>1 He dado el saldo deí al alba…</text>
+        </navLabel>
+        <content src="Text/Section0077.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>2 Éstas son las versiones que nos propone…</text>
+        </navLabel>
+        <content src="Text/Section0078.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>3 sólo la sed…</text>
+        </navLabel>
+        <content src="Text/Section0079.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>4 Quién dejará de hundir su mano…</text>
+        </navLabel>
+        <content src="Text/Section0080.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>5 por un minuto de vida breve…</text>
+        </navLabel>
+        <content src="Text/Section0081.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>6 ella se desnuda en el paraíso…</text>
+        </navLabel>
+        <content src="Text/Section0082.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>7 Salta con la camisa en llamas…</text>
+        </navLabel>
+        <content src="Text/Section0083.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>8 Memoria iluminada…</text>
+        </navLabel>
+        <content src="Text/Section0084.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>9 Estos huesos brillando en la noche…</text>
+        </navLabel>
+        <content src="Text/Section0085.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>10 un viento débil…</text>
+        </navLabel>
+        <content src="Text/Section0086.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>11 ahora…</text>
+        </navLabel>
+        <content src="Text/Section0087.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>12 no más las dulces metamorfosis…</text>
+        </navLabel>
+        <content src="Text/Section0088.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>13 explicar con palabras de este mundo…</text>
+        </navLabel>
+        <content src="Text/Section0089.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>14 El poema que no digo…</text>
+        </navLabel>
+        <content src="Text/Section0090.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>15 Extraño desacostumbrarme…</text>
+        </navLabel>
+        <content src="Text/Section0091.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>16 has construido tu casa…</text>
+        </navLabel>
+        <content src="Text/Section0092.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>17 Días en que una palabra lejana…</text>
+        </navLabel>
+        <content src="Text/Section0093.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>18 como un poema enterado…</text>
+        </navLabel>
+        <content src="Text/Section0094.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>19 cuando vea los ojos…</text>
+        </navLabel>
+        <content src="Text/Section0095.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>20 dice que no sabe del miedo…</text>
+        </navLabel>
+        <content src="Text/Section0096.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>21 he nacido tanto…</text>
+        </navLabel>
+        <content src="Text/Section0097.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>22 en la noche…</text>
+        </navLabel>
+        <content src="Text/Section0098.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>23 una mirada desde la alcantarilla…</text>
+        </navLabel>
+        <content src="Text/Section0099.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>24 estos hilos aprisionan a las sombras…</text>
+        </navLabel>
+        <content src="Text/Section0100.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>25 un agujero en la noche…</text>
+        </navLabel>
+        <content src="Text/Section0101.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>26 cuando el palacio de la noche…</text>
+        </navLabel>
+        <content src="Text/Section0102.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>27 un golpe del alba en las flores…</text>
+        </navLabel>
+        <content src="Text/Section0103.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>28 te alejas de los nombres…</text>
+        </navLabel>
+        <content src="Text/Section0104.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>29 Aquí vivimos con una mano en la garganta…</text>
+        </navLabel>
+        <content src="Text/Section0105.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>30 en el invierno fabuloso…</text>
+        </navLabel>
+        <content src="Text/Section0106.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>31 Es un cerrar los ojos…</text>
+        </navLabel>
+        <content src="Text/Section0107.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>32 Zona de plagas donde la dormida come…</text>
+        </navLabel>
+        <content src="Text/Section0108.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>33 alguna vez…</text>
+        </navLabel>
+        <content src="Text/Section0109.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>34 la pequeña viajera…</text>
+        </navLabel>
+        <content src="Text/Section0110.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>35 Vida, mi vida, déjate caer…</text>
+        </navLabel>
+        <content src="Text/Section0111.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>36 en la jaula del tiempo…</text>
+        </navLabel>
+        <content src="Text/Section0112.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>37 más allá de cualquier zona prohibida…</text>
+        </navLabel>
+        <content src="Text/Section0113.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>38 Este canto arrepentido…</text>
+        </navLabel>
+        <content src="Text/Section0114.xhtml" />
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Otros poemas (1959)</text>
+        </navLabel>
+        <content src="Text/Section0115.xhtml" />
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>silencio…</text>
+          </navLabel>
+          <content src="Text/Section0116.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>los náufragos detrás de la sombra…</text>
+          </navLabel>
+          <content src="Text/Section0117.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>animal lanzado a su rastro más lejano…</text>
+          </navLabel>
+          <content src="Text/Section0118.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-117" playOrder="117">
+          <navLabel>
+            <text>luego…</text>
+          </navLabel>
+          <content src="Text/Section0119.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>viajera de corazón de pájaro negro…</text>
+          </navLabel>
+          <content src="Text/Section0120.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>Caroline de Gunderode</text>
+          </navLabel>
+          <content src="Text/Section0121.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>Yo canto…</text>
+          </navLabel>
+          <content src="Text/Section0122.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>Los trabajos y las noches (1965)</text>
+      </navLabel>
+      <content src="Text/Section0123.xhtml" />
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/Section0124.xhtml" />
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>Poema</text>
+          </navLabel>
+          <content src="Text/Section0125.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>Revelaciones</text>
+          </navLabel>
+          <content src="Text/Section0126.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>En tu aniversario</text>
+          </navLabel>
+          <content src="Text/Section0127.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>Destrucciones</text>
+          </navLabel>
+          <content src="Text/Section0128.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>Amantes</text>
+          </navLabel>
+          <content src="Text/Section0129.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>Quien alumbra</text>
+          </navLabel>
+          <content src="Text/Section0130.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129">
+          <navLabel>
+            <text>Reconocimiento</text>
+          </navLabel>
+          <content src="Text/Section0131.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>Presencia</text>
+          </navLabel>
+          <content src="Text/Section0132.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>Encuentro</text>
+          </navLabel>
+          <content src="Text/Section0133.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>Duración</text>
+          </navLabel>
+          <content src="Text/Section0134.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>Tu voz</text>
+          </navLabel>
+          <content src="Text/Section0135.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>El olvido</text>
+          </navLabel>
+          <content src="Text/Section0136.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>Los pasos perdidos</text>
+          </navLabel>
+          <content src="Text/Section0137.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>Donde circunda lo ávido</text>
+          </navLabel>
+          <content src="Text/Section0138.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>Nombrarte</text>
+          </navLabel>
+          <content src="Text/Section0139.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>Despedida</text>
+          </navLabel>
+          <content src="Text/Section0140.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>Los trabajos y las noches</text>
+          </navLabel>
+          <content src="Text/Section0141.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>Sentido de su ausencia</text>
+          </navLabel>
+          <content src="Text/Section0142.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/Section0143.xhtml" />
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>Verde paraíso</text>
+          </navLabel>
+          <content src="Text/Section0144.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>Infancia</text>
+          </navLabel>
+          <content src="Text/Section0145.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>Antes</text>
+          </navLabel>
+          <content src="Text/Section0146.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/Section0147.xhtml" />
+        <navPoint id="navPoint-146" playOrder="146">
+          <navLabel>
+            <text>Anillos de ceniza</text>
+          </navLabel>
+          <content src="Text/Section0148.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>Madrugada</text>
+          </navLabel>
+          <content src="Text/Section0149.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>Reloj</text>
+          </navLabel>
+          <content src="Text/Section0150.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>En un lugar para huirse</text>
+          </navLabel>
+          <content src="Text/Section0151.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>Fronteras inútiles</text>
+          </navLabel>
+          <content src="Text/Section0152.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>El corazón de lo que existe</text>
+          </navLabel>
+          <content src="Text/Section0153.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>Las grandes palabras</text>
+          </navLabel>
+          <content src="Text/Section0154.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>Silencios</text>
+          </navLabel>
+          <content src="Text/Section0155.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>Pido el silencio</text>
+          </navLabel>
+          <content src="Text/Section0156.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>Caer</text>
+          </navLabel>
+          <content src="Text/Section0157.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>Fiesta</text>
+          </navLabel>
+          <content src="Text/Section0158.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>Los ojos abiertos</text>
+          </navLabel>
+          <content src="Text/Section0159.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>Cuarto solo</text>
+          </navLabel>
+          <content src="Text/Section0160.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>La verdad de esta vieja pared</text>
+          </navLabel>
+          <content src="Text/Section0161.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>Historia antigua</text>
+          </navLabel>
+          <content src="Text/Section0162.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>Invocaciones</text>
+          </navLabel>
+          <content src="Text/Section0163.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-162" playOrder="162">
+          <navLabel>
+            <text>Desmemoria</text>
+          </navLabel>
+          <content src="Text/Section0164.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>Un abandono</text>
+          </navLabel>
+          <content src="Text/Section0165.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164">
+          <navLabel>
+            <text>Formas</text>
+          </navLabel>
+          <content src="Text/Section0166.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>Comunicaciones</text>
+          </navLabel>
+          <content src="Text/Section0167.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-166" playOrder="166">
+          <navLabel>
+            <text>Memoria</text>
+          </navLabel>
+          <content src="Text/Section0168.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text>Sombra de los días a venir</text>
+          </navLabel>
+          <content src="Text/Section0169.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-168" playOrder="168">
+          <navLabel>
+            <text>Del otro lado</text>
+          </navLabel>
+          <content src="Text/Section0170.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-169" playOrder="169">
+          <navLabel>
+            <text>Crepúsculo</text>
+          </navLabel>
+          <content src="Text/Section0171.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text>Moradas</text>
+          </navLabel>
+          <content src="Text/Section0172.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>Mendiga voz</text>
+          </navLabel>
+          <content src="Text/Section0173.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-172" playOrder="172">
+      <navLabel>
+        <text>Extracción de la piedra de locura (1968)</text>
+      </navLabel>
+      <content src="Text/Section0174.xhtml" />
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>I (1966)</text>
+        </navLabel>
+        <content src="Text/Section0176.xhtml" />
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>Cantora nocturna</text>
+          </navLabel>
+          <content src="Text/Section0177.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>Vértigos o contemplación de algo que termina</text>
+          </navLabel>
+          <content src="Text/Section0178.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>Linterna sorda</text>
+          </navLabel>
+          <content src="Text/Section0179.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>Privilegio</text>
+          </navLabel>
+          <content src="Text/Section0180.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>Contemplación</text>
+          </navLabel>
+          <content src="Text/Section0181.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>Nuit de cœur</text>
+          </navLabel>
+          <content src="Text/Section0182.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>Cuento de invierno</text>
+          </navLabel>
+          <content src="Text/Section0183.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>En la otra madrugada</text>
+          </navLabel>
+          <content src="Text/Section0184.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182">
+          <navLabel>
+            <text>Desfundación</text>
+          </navLabel>
+          <content src="Text/Section0185.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>Figuras y silencios</text>
+          </navLabel>
+          <content src="Text/Section0186.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>Fragmentos para dominar el silencio</text>
+          </navLabel>
+          <content src="Text/Section0187.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>Sortilegios</text>
+          </navLabel>
+          <content src="Text/Section0188.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>II (1963)</text>
+        </navLabel>
+        <content src="Text/Section0189.xhtml" />
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>Un sueño donde el silencio es de oro</text>
+          </navLabel>
+          <content src="Text/Section0190.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>Tête de jeune fille (odilon redon)</text>
+          </navLabel>
+          <content src="Text/Section0191.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>Rescate</text>
+          </navLabel>
+          <content src="Text/Section0192.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>Escrito en el escorial</text>
+          </navLabel>
+          <content src="Text/Section0193.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>El sol, el poema</text>
+          </navLabel>
+          <content src="Text/Section0194.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-192" playOrder="192">
+          <navLabel>
+            <text>Estar</text>
+          </navLabel>
+          <content src="Text/Section0195.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193">
+          <navLabel>
+            <text>Las promesas de la música</text>
+          </navLabel>
+          <content src="Text/Section0196.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>Inminencia</text>
+          </navLabel>
+          <content src="Text/Section0197.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+          <navLabel>
+            <text>Continuidad</text>
+          </navLabel>
+          <content src="Text/Section0198.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-196" playOrder="196">
+          <navLabel>
+            <text>Adioses del verano</text>
+          </navLabel>
+          <content src="Text/Section0199.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>Como agua sobre una piedra</text>
+          </navLabel>
+          <content src="Text/Section0200.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-198" playOrder="198">
+          <navLabel>
+            <text>En un otoño antiguo</text>
+          </navLabel>
+          <content src="Text/Section0201.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>III (1962)</text>
+        </navLabel>
+        <content src="Text/Section0202.xhtml" />
+        <navPoint id="navPoint-200" playOrder="200">
+          <navLabel>
+            <text>Caminos del espejo</text>
+          </navLabel>
+          <content src="Text/Section0203.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>IV (1964)</text>
+        </navLabel>
+        <content src="Text/Section0204.xhtml" />
+        <navPoint id="navPoint-202" playOrder="202">
+          <navLabel>
+            <text>Extracción de la piedra de locura</text>
+          </navLabel>
+          <content src="Text/Section0205.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+          <navLabel>
+            <text>El sueño de la muerte o el lugar de los cuerpos poéticos</text>
+          </navLabel>
+          <content src="Text/Section0206.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-204" playOrder="204">
+          <navLabel>
+            <text>Noche compartida en el recuerdo de una huida</text>
+          </navLabel>
+          <content src="Text/Section0207.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-205" playOrder="205">
+      <navLabel>
+        <text>El infierno musical (1971)</text>
+      </navLabel>
+      <content src="Text/Section0208.xhtml" />
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>I Figuras del presentimiento</text>
+        </navLabel>
+        <content src="Text/Section0209.xhtml" />
+        <navPoint id="navPoint-207" playOrder="207">
+          <navLabel>
+            <text>Cold in hand blues</text>
+          </navLabel>
+          <content src="Text/Section0210.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-208" playOrder="208">
+          <navLabel>
+            <text>Piedra fundamental</text>
+          </navLabel>
+          <content src="Text/Section0211.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209">
+          <navLabel>
+            <text>Ojos primitivos</text>
+          </navLabel>
+          <content src="Text/Section0212.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210">
+          <navLabel>
+            <text>El infierno musical</text>
+          </navLabel>
+          <content src="Text/Section0213.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-211" playOrder="211">
+          <navLabel>
+            <text>El deseo de la palabra</text>
+          </navLabel>
+          <content src="Text/Section0214.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-212" playOrder="212">
+          <navLabel>
+            <text>La palabra del deseo</text>
+          </navLabel>
+          <content src="Text/Section0215.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-213" playOrder="213">
+          <navLabel>
+            <text>Nombres y figuras</text>
+          </navLabel>
+          <content src="Text/Section0216.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>II Las uniones posibles</text>
+        </navLabel>
+        <content src="Text/Section0217.xhtml" />
+        <navPoint id="navPoint-215" playOrder="215">
+          <navLabel>
+            <text>En un ejemplar de «Les chants de maldoror»</text>
+          </navLabel>
+          <content src="Text/Section0218.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-216" playOrder="216">
+          <navLabel>
+            <text>Signos</text>
+          </navLabel>
+          <content src="Text/Section0219.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217">
+          <navLabel>
+            <text>Fuga en lila</text>
+          </navLabel>
+          <content src="Text/Section0220.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-218" playOrder="218">
+          <navLabel>
+            <text>Del otro lado</text>
+          </navLabel>
+          <content src="Text/Section0221.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-219" playOrder="219">
+          <navLabel>
+            <text>Lazo mortal</text>
+          </navLabel>
+          <content src="Text/Section0222.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>III Figuras de la ausencia</text>
+        </navLabel>
+        <content src="Text/Section0223.xhtml" />
+        <navPoint id="navPoint-221" playOrder="221">
+          <navLabel>
+            <text>La palabra que sana</text>
+          </navLabel>
+          <content src="Text/Section0224.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-222" playOrder="222">
+          <navLabel>
+            <text>Los de lo oculto</text>
+          </navLabel>
+          <content src="Text/Section0225.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-223" playOrder="223">
+          <navLabel>
+            <text>L’obscurité des eaux</text>
+          </navLabel>
+          <content src="Text/Section0226.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-224" playOrder="224">
+          <navLabel>
+            <text>Gesto para un objeto</text>
+          </navLabel>
+          <content src="Text/Section0227.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-225" playOrder="225">
+          <navLabel>
+            <text>La máscara y el poema</text>
+          </navLabel>
+          <content src="Text/Section0228.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-226" playOrder="226">
+          <navLabel>
+            <text>Endechas</text>
+          </navLabel>
+          <content src="Text/Section0229.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-227" playOrder="227">
+          <navLabel>
+            <text>A plena pérdida</text>
+          </navLabel>
+          <content src="Text/Section0230.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>IV Los poseídos entre lilas</text>
+        </navLabel>
+        <content src="Text/Section0231.xhtml" />
+        <navPoint id="navPoint-229" playOrder="229">
+          <navLabel>
+            <text>I —Se abrió la flor de la distancia…</text>
+          </navLabel>
+          <content src="Text/Section0232.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-230" playOrder="230">
+          <navLabel>
+            <text>II Si viera un perro muerto moriría…</text>
+          </navLabel>
+          <content src="Text/Section0233.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-231" playOrder="231">
+          <navLabel>
+            <text>III Voces, rumores, sombras…</text>
+          </navLabel>
+          <content src="Text/Section0234.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-232" playOrder="232">
+          <navLabel>
+            <text>IV Alguna vez, tal vez…</text>
+          </navLabel>
+          <content src="Text/Section0235.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>Poemas no recogidos en libros</text>
+      </navLabel>
+      <content src="Text/Section0236.xhtml" />
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>1956-1960</text>
+        </navLabel>
+        <content src="Text/Section0237.xhtml" />
+        <navPoint id="navPoint-235" playOrder="235">
+          <navLabel>
+            <text>el silencio es luz…</text>
+          </navLabel>
+          <content src="Text/Section0238.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-236" playOrder="236">
+          <navLabel>
+            <text>Como dedos rodando premeditadamente…</text>
+          </navLabel>
+          <content src="Text/Section0239.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-237" playOrder="237">
+          <navLabel>
+            <text>aguardadora insomne…</text>
+          </navLabel>
+          <content src="Text/Section0240.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-238" playOrder="238">
+          <navLabel>
+            <text>Nocturno de Chopin por un pianista de cuatro años</text>
+          </navLabel>
+          <content src="Text/Section0241.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-239" playOrder="239">
+          <navLabel>
+            <text>Sin tierra común</text>
+          </navLabel>
+          <content src="Text/Section0242.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-240" playOrder="240">
+          <navLabel>
+            <text>Lamento</text>
+          </navLabel>
+          <content src="Text/Section0243.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-241" playOrder="241">
+          <navLabel>
+            <text>cuidado con las palabras…</text>
+          </navLabel>
+          <content src="Text/Section0244.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-242" playOrder="242">
+          <navLabel>
+            <text>los ojos…</text>
+          </navLabel>
+          <content src="Text/Section0245.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-243" playOrder="243">
+          <navLabel>
+            <text>Aproximaciones</text>
+          </navLabel>
+          <content src="Text/Section0246.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-244" playOrder="244">
+          <navLabel>
+            <text>Como una idiota cruzando la calle…</text>
+          </navLabel>
+          <content src="Text/Section0247.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-245" playOrder="245">
+          <navLabel>
+            <text>Sumisa la niña muda…</text>
+          </navLabel>
+          <content src="Text/Section0248.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-246" playOrder="246">
+          <navLabel>
+            <text>Dónde dejar mis ojos…</text>
+          </navLabel>
+          <content src="Text/Section0249.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-247" playOrder="247">
+          <navLabel>
+            <text>es verdad que en lo oscuro…</text>
+          </navLabel>
+          <content src="Text/Section0250.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-248" playOrder="248">
+          <navLabel>
+            <text>boca enlutada…</text>
+          </navLabel>
+          <content src="Text/Section0251.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-249" playOrder="249">
+          <navLabel>
+            <text>Zona de la tensión perpetua…</text>
+          </navLabel>
+          <content src="Text/Section0252.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-250" playOrder="250">
+          <navLabel>
+            <text>Una luz, una lampara…</text>
+          </navLabel>
+          <content src="Text/Section0253.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-251" playOrder="251">
+          <navLabel>
+            <text>lejos de lo nacido…</text>
+          </navLabel>
+          <content src="Text/Section0254.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-252" playOrder="252">
+          <navLabel>
+            <text>en el amanecer venido de mis ojos…</text>
+          </navLabel>
+          <content src="Text/Section0255.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-253" playOrder="253">
+          <navLabel>
+            <text>Que alejen el agua y el vino…</text>
+          </navLabel>
+          <content src="Text/Section0256.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-254" playOrder="254">
+          <navLabel>
+            <text>como la bella en el bosque despierta…</text>
+          </navLabel>
+          <content src="Text/Section0257.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-255" playOrder="255">
+          <navLabel>
+            <text>Perdida en el silencio…</text>
+          </navLabel>
+          <content src="Text/Section0258.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-256" playOrder="256">
+          <navLabel>
+            <text>de súbito…</text>
+          </navLabel>
+          <content src="Text/Section0259.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-257" playOrder="257">
+          <navLabel>
+            <text>temo dejar de ser…</text>
+          </navLabel>
+          <content src="Text/Section0260.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-258" playOrder="258">
+          <navLabel>
+            <text>cultivo el jardín del furor…</text>
+          </navLabel>
+          <content src="Text/Section0261.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-259" playOrder="259">
+          <navLabel>
+            <text>en el pequeño frenesí de toda bujía…</text>
+          </navLabel>
+          <content src="Text/Section0262.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-260" playOrder="260">
+          <navLabel>
+            <text>el silencio es luz…</text>
+          </navLabel>
+          <content src="Text/Section0263.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-261" playOrder="261">
+          <navLabel>
+            <text>Capítulos principales</text>
+          </navLabel>
+          <content src="Text/Section0264.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-262" playOrder="262">
+        <navLabel>
+          <text>1962-1972</text>
+        </navLabel>
+        <content src="Text/Section0265.xhtml" />
+        <navPoint id="navPoint-263" playOrder="263">
+          <navLabel>
+            <text>Se prohíbe mirar el césped</text>
+          </navLabel>
+          <content src="Text/Section0266.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-264" playOrder="264">
+          <navLabel>
+            <text>Buscar</text>
+          </navLabel>
+          <content src="Text/Section0267.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-265" playOrder="265">
+          <navLabel>
+            <text>En honor de una pérdida</text>
+          </navLabel>
+          <content src="Text/Section0268.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-266" playOrder="266">
+          <navLabel>
+            <text>Pequeños poemas en prosa</text>
+          </navLabel>
+          <content src="Text/Section0269.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-267" playOrder="267">
+          <navLabel>
+            <text>La celeste silenciosa al borde del pantano</text>
+          </navLabel>
+          <content src="Text/Section0270.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-268" playOrder="268">
+          <navLabel>
+            <text>Naufragio inconcluso</text>
+          </navLabel>
+          <content src="Text/Section0271.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-269" playOrder="269">
+          <navLabel>
+            <text>Densidad</text>
+          </navLabel>
+          <content src="Text/Section0272.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-270" playOrder="270">
+          <navLabel>
+            <text>En la oscuridad abierta</text>
+          </navLabel>
+          <content src="Text/Section0273.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-271" playOrder="271">
+          <navLabel>
+            <text>La oscura</text>
+          </navLabel>
+          <content src="Text/Section0274.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-272" playOrder="272">
+          <navLabel>
+            <text>Memorial fantasma</text>
+          </navLabel>
+          <content src="Text/Section0275.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-273" playOrder="273">
+          <navLabel>
+            <text>Cuadro</text>
+          </navLabel>
+          <content src="Text/Section0276.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-274" playOrder="274">
+          <navLabel>
+            <text>En la noche</text>
+          </navLabel>
+          <content src="Text/Section0277.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-275" playOrder="275">
+          <navLabel>
+            <text>«Casa de la mente»</text>
+          </navLabel>
+          <content src="Text/Section0278.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-276" playOrder="276">
+          <navLabel>
+            <text>A un poema acerca del agua, de Silvina Ocampo</text>
+          </navLabel>
+          <content src="Text/Section0279.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-277" playOrder="277">
+          <navLabel>
+            <text>[…] del silencio</text>
+          </navLabel>
+          <content src="Text/Section0281.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-278" playOrder="278">
+          <navLabel>
+            <text>Memoria de su voz…</text>
+          </navLabel>
+          <content src="Text/Section0282.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-279" playOrder="279">
+          <navLabel>
+            <text>Quiero decir, pero siento…</text>
+          </navLabel>
+          <content src="Text/Section0283.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-280" playOrder="280">
+          <navLabel>
+            <text>La noche, el poema</text>
+          </navLabel>
+          <content src="Text/Section0284.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-281" playOrder="281">
+          <navLabel>
+            <text>Suponiendo que me viese llorar…</text>
+          </navLabel>
+          <content src="Text/Section0285.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-282" playOrder="282">
+          <navLabel>
+            <text>Tabla rasa</text>
+          </navLabel>
+          <content src="Text/Section0286.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-283" playOrder="283">
+          <navLabel>
+            <text>Affiche</text>
+          </navLabel>
+          <content src="Text/Section0287.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-284" playOrder="284">
+          <navLabel>
+            <text>Sólo señal</text>
+          </navLabel>
+          <content src="Text/Section0288.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-285" playOrder="285">
+          <navLabel>
+            <text>Contemplación</text>
+          </navLabel>
+          <content src="Text/Section0289.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-286" playOrder="286">
+          <navLabel>
+            <text>Una palabra</text>
+          </navLabel>
+          <content src="Text/Section0290.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-287" playOrder="287">
+          <navLabel>
+            <text>La canción para el yacente</text>
+          </navLabel>
+          <content src="Text/Section0291.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-288" playOrder="288">
+          <navLabel>
+            <text>Una textura de luz…</text>
+          </navLabel>
+          <content src="Text/Section0292.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-289" playOrder="289">
+          <navLabel>
+            <text>Poema para el padre</text>
+          </navLabel>
+          <content src="Text/Section0293.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-290" playOrder="290">
+        <navLabel>
+          <text>En esta noche en este mundo</text>
+        </navLabel>
+        <content src="Text/Section0294.xhtml" />
+        <navPoint id="navPoint-291" playOrder="291">
+          <navLabel>
+            <text>Sobre un poema de Rubén Darío</text>
+          </navLabel>
+          <content src="Text/Section0295.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-292" playOrder="292">
+          <navLabel>
+            <text>En otra noche, en otro mundo</text>
+          </navLabel>
+          <content src="Text/Section0296.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-293" playOrder="293">
+          <navLabel>
+            <text>Alguien cae en su primera caída</text>
+          </navLabel>
+          <content src="Text/Section0297.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-294" playOrder="294">
+          <navLabel>
+            <text>esta noche he visto…</text>
+          </navLabel>
+          <content src="Text/Section0298.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-295" playOrder="295">
+          <navLabel>
+            <text>me he empavorecido…</text>
+          </navLabel>
+          <content src="Text/Section0299.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-296" playOrder="296">
+          <navLabel>
+            <text>lloro, miro el mar y lloro…</text>
+          </navLabel>
+          <content src="Text/Section0300.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-297" playOrder="297">
+        <navLabel>
+          <text>Los pequeños cantos</text>
+        </navLabel>
+        <content src="Text/Section0301.xhtml" />
+        <navPoint id="navPoint-298" playOrder="298">
+          <navLabel>
+            <text>I nadie me conoce yo hablo la noche…</text>
+          </navLabel>
+          <content src="Text/Section0302.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-299" playOrder="299">
+          <navLabel>
+            <text>II sólo las palabras…</text>
+          </navLabel>
+          <content src="Text/Section0303.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-300" playOrder="300">
+          <navLabel>
+            <text>III el centro…</text>
+          </navLabel>
+          <content src="Text/Section0304.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-301" playOrder="301">
+          <navLabel>
+            <text>IV una muñeca de huesos de pájaros…</text>
+          </navLabel>
+          <content src="Text/Section0305.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-302" playOrder="302">
+          <navLabel>
+            <text>V la agonia…</text>
+          </navLabel>
+          <content src="Text/Section0306.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-303" playOrder="303">
+          <navLabel>
+            <text>VI grietas en los muros…</text>
+          </navLabel>
+          <content src="Text/Section0307.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-304" playOrder="304">
+          <navLabel>
+            <text>VII Cubres con un canto la hendidura…</text>
+          </navLabel>
+          <content src="Text/Section0308.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-305" playOrder="305">
+          <navLabel>
+            <text>VIII en el mediodía de los muertos…</text>
+          </navLabel>
+          <content src="Text/Section0309.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-306" playOrder="306">
+          <navLabel>
+            <text>IX mi canto de dormida al alba…</text>
+          </navLabel>
+          <content src="Text/Section0310.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-307" playOrder="307">
+          <navLabel>
+            <text>X el que me ama aleja a mis dobles…</text>
+          </navLabel>
+          <content src="Text/Section0311.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-308" playOrder="308">
+          <navLabel>
+            <text>XI oh los ojos tuyos…</text>
+          </navLabel>
+          <content src="Text/Section0312.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-309" playOrder="309">
+          <navLabel>
+            <text>XII cuervos en mi mente…</text>
+          </navLabel>
+          <content src="Text/Section0313.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-310" playOrder="310">
+          <navLabel>
+            <text>XIII una idea fija…</text>
+          </navLabel>
+          <content src="Text/Section0314.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-311" playOrder="311">
+          <navLabel>
+            <text>XIV qué es este espacio que somos…</text>
+          </navLabel>
+          <content src="Text/Section0315.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-312" playOrder="312">
+          <navLabel>
+            <text>XV niña que en vientos grises…</text>
+          </navLabel>
+          <content src="Text/Section0316.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-313" playOrder="313">
+          <navLabel>
+            <text>XVI hablará por espejos…</text>
+          </navLabel>
+          <content src="Text/Section0317.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-314" playOrder="314">
+          <navLabel>
+            <text>XVII instruidnos acerca de la vida…</text>
+          </navLabel>
+          <content src="Text/Section0318.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-315" playOrder="315">
+          <navLabel>
+            <text>XVIII palabras reflejas que solas se dicen…</text>
+          </navLabel>
+          <content src="Text/Section0319.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-316" playOrder="316">
+          <navLabel>
+            <text>XIX triste músico…</text>
+          </navLabel>
+          <content src="Text/Section0320.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-317" playOrder="317">
+          <navLabel>
+            <text>En esta noche, en este mundo</text>
+          </navLabel>
+          <content src="Text/Section0321.xhtml" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-318" playOrder="318">
+        <navLabel>
+          <text>Textos de sombra</text>
+        </navLabel>
+        <content src="Text/Section0322.xhtml" />
+        <navPoint id="navPoint-319" playOrder="319">
+          <navLabel>
+            <text>Algunos textos de sombra</text>
+          </navLabel>
+          <content src="Text/Section0323.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-320" playOrder="320">
+          <navLabel>
+            <text>Solo buscaba un lugar…</text>
+          </navLabel>
+          <content src="Text/Section0324.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-321" playOrder="321">
+          <navLabel>
+            <text>Prefacio de sombra (I)</text>
+          </navLabel>
+          <content src="Text/Section0325.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-322" playOrder="322">
+          <navLabel>
+            <text>El entendimiento</text>
+          </navLabel>
+          <content src="Text/Section0326.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-323" playOrder="323">
+          <navLabel>
+            <text>Escrito cuando sombra</text>
+          </navLabel>
+          <content src="Text/Section0327.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-324" playOrder="324">
+          <navLabel>
+            <text>Presencia de sombra</text>
+          </navLabel>
+          <content src="Text/Section0328.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-325" playOrder="325">
+          <navLabel>
+            <text>SOMBRA: Je régarde ma main déserte…</text>
+          </navLabel>
+          <content src="Text/Section0329.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-326" playOrder="326">
+          <navLabel>
+            <text>Texto de sombra</text>
+          </navLabel>
+          <content src="Text/Section0330.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-327" playOrder="327">
+          <navLabel>
+            <text>Texto de sombra</text>
+          </navLabel>
+          <content src="Text/Section0331.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-328" playOrder="328">
+          <navLabel>
+            <text>Sala de psicopatología</text>
+          </navLabel>
+          <content src="Text/Section0332.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-329" playOrder="329">
+          <navLabel>
+            <text>Alianza</text>
+          </navLabel>
+          <content src="Text/Section0333.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-330" playOrder="330">
+          <navLabel>
+            <text>es como si me pidiera la luna…</text>
+          </navLabel>
+          <content src="Text/Section0334.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-331" playOrder="331">
+          <navLabel>
+            <text>Sous la nuit</text>
+          </navLabel>
+          <content src="Text/Section0335.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-332" playOrder="332">
+          <navLabel>
+            <text>errar entrando adentro…</text>
+          </navLabel>
+          <content src="Text/Section0336.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-333" playOrder="333">
+          <navLabel>
+            <text>Para Janis Joplin</text>
+          </navLabel>
+          <content src="Text/Section0337.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-334" playOrder="334">
+          <navLabel>
+            <text>El ojo de la alegría (un cuadro de Chagall y Schubert)</text>
+          </navLabel>
+          <content src="Text/Section0338.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-335" playOrder="335">
+          <navLabel>
+            <text>En un principio fueron mis muertos</text>
+          </navLabel>
+          <content src="Text/Section0339.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-336" playOrder="336">
+          <navLabel>
+            <text>Ojos primitivos</text>
+          </navLabel>
+          <content src="Text/Section0340.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-337" playOrder="337">
+          <navLabel>
+            <text>La canción desesperada…</text>
+          </navLabel>
+          <content src="Text/Section0341.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-338" playOrder="338">
+          <navLabel>
+            <text>Solamente las noches</text>
+          </navLabel>
+          <content src="Text/Section0342.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-339" playOrder="339">
+          <navLabel>
+            <text>y cantos…</text>
+          </navLabel>
+          <content src="Text/Section0343.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-340" playOrder="340">
+          <navLabel>
+            <text>no oigo los sonidos orgasmales…</text>
+          </navLabel>
+          <content src="Text/Section0344.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-341" playOrder="341">
+          <navLabel>
+            <text>¿Quién es yo?…</text>
+          </navLabel>
+          <content src="Text/Section0345.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-342" playOrder="342">
+          <navLabel>
+            <text>no, la verdad no es la música…</text>
+          </navLabel>
+          <content src="Text/Section0346.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-343" playOrder="343">
+          <navLabel>
+            <text>sólo vine a ver el jardín…</text>
+          </navLabel>
+          <content src="Text/Section0347.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-344" playOrder="344">
+          <navLabel>
+            <text>Ella no espera en sí misma…</text>
+          </navLabel>
+          <content src="Text/Section0348.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-345" playOrder="345">
+          <navLabel>
+            <text>Triste cuando deseo y cuando no…</text>
+          </navLabel>
+          <content src="Text/Section0349.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-346" playOrder="346">
+          <navLabel>
+            <text>Recuerdos de la pequeña casa del canto</text>
+          </navLabel>
+          <content src="Text/Section0350.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-347" playOrder="347">
+          <navLabel>
+            <text>Que me dejen con mi voz nueva…</text>
+          </navLabel>
+          <content src="Text/Section0351.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-348" playOrder="348">
+          <navLabel>
+            <text>Escrito en el crepúsculo</text>
+          </navLabel>
+          <content src="Text/Section0352.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-349" playOrder="349">
+          <navLabel>
+            <text>Alguien mató algo</text>
+          </navLabel>
+          <content src="Text/Section0353.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-350" playOrder="350">
+          <navLabel>
+            <text>Te hablo</text>
+          </navLabel>
+          <content src="Text/Section0354.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-351" playOrder="351">
+          <navLabel>
+            <text>A modo de tregua</text>
+          </navLabel>
+          <content src="Text/Section0355.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-352" playOrder="352">
+          <navLabel>
+            <text>Jardín o tiempo</text>
+          </navLabel>
+          <content src="Text/Section0356.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-353" playOrder="353">
+          <navLabel>
+            <text>Escrito en «anahuac» (talitas)</text>
+          </navLabel>
+          <content src="Text/Section0357.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-354" playOrder="354">
+          <navLabel>
+            <text>…Al alba venid…</text>
+          </navLabel>
+          <content src="Text/Section0358.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-355" playOrder="355">
+          <navLabel>
+            <text>No [poder] querer…</text>
+          </navLabel>
+          <content src="Text/Section0359.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-356" playOrder="356">
+          <navLabel>
+            <text>en la noche del corazón…</text>
+          </navLabel>
+          <content src="Text/Section0360.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-357" playOrder="357">
+          <navLabel>
+            <text>Alguien…</text>
+          </navLabel>
+          <content src="Text/Section0361.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-358" playOrder="358">
+          <navLabel>
+            <text>Yo voces…</text>
+          </navLabel>
+          <content src="Text/Section0362.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-359" playOrder="359">
+          <navLabel>
+            <text>Alguien…</text>
+          </navLabel>
+          <content src="Text/Section0363.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-360" playOrder="360">
+          <navLabel>
+            <text>La mesa verde</text>
+          </navLabel>
+          <content src="Text/Section0364.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-361" playOrder="361">
+          <navLabel>
+            <text>golpean las sombras…</text>
+          </navLabel>
+          <content src="Text/Section0365.xhtml" />
+        </navPoint>
+        <navPoint id="navPoint-362" playOrder="362">
+          <navLabel>
+            <text>criatura en plegaria…</text>
+          </navLabel>
+          <content src="Text/Section0366.xhtml" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-363" playOrder="363">
+      <navLabel>
+        <text>Acerca de esta edición</text>
+      </navLabel>
+      <content src="Text/Section0367.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-364" playOrder="364">
+      <navLabel>
+        <text>Autor</text>
+      </navLabel>
+      <content src="Text/autor.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-365" playOrder="365">
+      <navLabel>
+        <text>Notas</text>
+      </navLabel>
+      <content src="Text/notas.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

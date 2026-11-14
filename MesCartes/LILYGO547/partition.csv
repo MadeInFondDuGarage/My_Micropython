@@ -1,0 +1,12 @@
+# NVS : stockage des clés/valeurs IDF (Wi‑Fi, etc.)
+# PHY : calibration radio (même si tu désactives Wi‑Fi/BLE, on le garde, taille min)
+# Application MicroPython (un seul slot "factory")
+# VFS MicroPython (FAT via wear-leveling)
+# Espace libre/future extensions (optionnel, 1MB ici en réserve)
+# Name, Type, SubType, Offset, Size, Flags
+# ------------------------------------------------------------
+nvs,        data,   nvs,    0x9000  , 0x6000
+phy_init,   data,   phy,            , 0x1000
+factory,    app,    factory,        , 0x400000
+vfs,        data,   fat,            , 0x800000
+storage,    data,   fat ,           , 0x100000
