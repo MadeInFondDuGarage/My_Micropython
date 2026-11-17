@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        ""
+    ],
+    "docs": "",
+    "features": [
+        "BLE",
+    "SPIRAM",
+        "WiFi",
+    "E-Paper",
+    "RTC",
+    "Touch"
+    ],
+    "images": [
+        "generic_s3.jpg"
+    ],
+    "mcu": "esp32s3",
+    "product": "LilyGo T5-4.7",
+    "thumbnail": "",
+    "url": "https://www.espressif.com/en/products/modules",
+    "vendor": "LilyGo"
+}
