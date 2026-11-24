@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Export vectoriel e-ink microsvg </name>
+  <id>org.inkscape.effect.glyphs_toolkit</id>
+  <param name="name"    type="string" gui-text="Nom">dessin</param>
+  <param name="out-dir" type="path" mode="folder" gui-text="Dossier de sortie">./</param>
+  <param name="mode"    type="optiongroup" appearance="combo" gui-text="Style / Remplissage">
+    <option value="auto">Auto (fill + stroke SVG)</option>
+    <option value="fill">Forcer plein (fill uniquement)</option>
+    <option value="stroke">Forcer contour (stroke uniquement)</option>
+  </param>
+  <param name="invert"  type="bool" gui-text="Inverser les niveaux (0=blanc)">false</param>
+  <effect needs-live-preview="false">
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu name="Glyphs / Hershey font / microsvg"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command location="inx" interpreter="python">export_vec.py</command>
+  </script>
+</inkscape-extension>

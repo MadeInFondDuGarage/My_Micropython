@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+
+  <name>Glyphs Toolkit</name>
+  <id>org.inkscape.effect.glyphs_toolkit</id>
+
+  <param name="active-tab" type="notebook">
+
+    <!-- Onglet 1 : Glyph Grid Model -->
+    <page name="tab_grid" gui-text="Glyph /Hershey font grid model">
+      <param name="font-family" type="string" gui-text="Police">Arial</param>
+      <_param name="glyph_infos" type="description" xml:space="preserve">
+
+      Construit une grid a partir du nom de la fonts existante dans inkscape.
+      Il faut ensuite transformer chaque caractère en chemin.
+      On peut alors les modifer comme on le souhaite.
+      les carrés rouge sont les zone a ne pas dépasser.
+
+      </_param>
+    </page>
+
+    <!-- Onglet 2 : Auto Metrics -->
+    <page name="tab_metrics" gui-text="Auto Metrics">
+      <param name="padding" type="float" gui-text="Padding (unités doc)" min="0" max="10">0.5</param>
+      <_param name="metric_infos" type="description" xml:space="preserve">
+
+      Une fois les caractère adapter a vos besoin, vous pouvez automatique réduire les encombrements des caractères (délimiter par le carré rouge)
+      en selectionnant le calque métric, et lancer cette partie.
+      cela permet d'avoir les caractère coller les 1 au autres avec l'espacement qui vous conviend.
+
+      </_param>
+    </page>
+
+    <!-- Onglet 3 : Export SVG Font -->
+    <page name="tab_export" gui-text="Export SVG Hershey font">
+      <_param name="export_fichier_infos" type="description" xml:space="preserve">
+        le fichier de sortie est nommer 'Hershley'+Nom de la font choisi au premier onglet
+      </_param>
+      <param name="output-file"  type="path"    gui-text="Dossier de sortie" mode="folder" filetypes="svg">./</param>
+      <param name="units-per-em" type="int"     gui-text="Units per em" min="100" max="4096">1000</param>
+      <param name="ascent"       type="int"     gui-text="Ascent"       min="0"   max="4096">800</param>
+      <param name="horiz-adv-x"  type="int"     gui-text="Horiz-adv-x (défaut fonte)" min="0" max="4096">500</param>
+      <param name="descent"      type="int"     gui-text="Descent"      min="-4096" max="0">-200</param>
+      <_param name="export_infos" type="description" xml:space="preserve">
+
+      Ici on lance la convertion final. il faut pour faire fonctionne cette partie avoir transformer les caractères en chemin avant.
+      Le résumer vous indique le nombre de glyph finalement construit.
+
+      </_param>
+    </page>
+
+    <!-- Onglet 4 : Export BMP Font -->
+    <page name="tab_bmp" gui-text="Export BMP Font">
+      <_param name="bmp_dossier_infos" type="description" xml:space="preserve">
+        Génère un dossier 'Font'+Nom de la font (onglet 1) contenant un fichier .bmp par caractère (nommé U+XXXX.bmp) + 1 ligne vide en bas + font_index.py.
+      </_param>
+      <param name="bmp-output-dir" type="path"    gui-text="Dossier parent de sortie" mode="folder">./</param>
+      <param name="bmp-height"     type="int"     gui-text="Hauteur caractère (px)"   min="6" max="256">24</param>
+      <param name="bmp-fill"       type="boolean" gui-text="Remplissage intérieur">true</param>
+      <param name="bmp-outline"    type="boolean" gui-text="Contour (trait)">false</param>
+      <param name="bmp-stroke"     type="float"   gui-text="Épaisseur contour (px)"   min="0.5" max="20">1.4</param>
+      <param name="bmp-invert"     type="boolean" gui-text="Fond blanc ligne noir">true</param>
+      <_param name="bmp_infos" type="description" xml:space="preserve">
+
+      Ici on lance un conversion en mode bmp, une image par caractère. utilisant le code caractère, pas de conflit windows. facilement a utilise en micropython.
+      on a juste a aligner les images en découpant chaque caractère d'un texte, sans besoin de faire un lookup dans la table d'un gros fichier.
+      on peux cocher Remplissage seul, Contour seul, ou les deux combinés.
+      Une ligne vide est ajoutée en bas de chaque BMP (hauteur finale = hauteur caractère + 1).
+      en décochant le fond blanc/ ligne noir cela inverse la pallette, donc ligne blanche sur fond noir.
+
+      </_param>
+    </page>
+
+    <!-- Onglet 5 : Infos -->
+    <page name="tab_info" gui-text="Glyph /Hershey infos usage">
+      <_param name="usage_infos" type="description" xml:space="preserve">
+
+      Pour l'utiliser dans Inkscape, lancer l'extension 'Text/Text Hershey'
+      Soit vous avez placer le .svg dans le répertoire de cette extension et la font apparait alors dans la liste
+      Soit vous indiquez le chemin vers la font.
+      Ensuite dans le 2eme onglet vous l'utilisez soit pour faire un texte, soit refaire une grille de test.
+      Il arrive parfois que l'es épaisseurs des traits soit important. il suffit alors juste de sélectionne les chemin et de remettre une épaisseurs adapter.
+
+      Cet outils est lier a l'usage du fichier final en python ou le point bin sur un moteur de rendu micropython pour esp32.
+      Mais il génère aussi un fichier svg utilisable par l'outils dans les extensions "Text/Text Hershey" inkscape
+
+      </_param>
+    </page>
+
+  </param>
+
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu name="Glyphs / Hershey font / microsvg"/>
+    </effects-menu>
+  </effect>
+
+  <script>
+    <command location="inx" interpreter="python">Glyph_tools.py</command>
+  </script>
+
+</inkscape-extension>
